@@ -8,7 +8,7 @@ Data cleaning is an essential step in machine learning in applied contexts. In c
 * Handling imbalanced class distributions 
 * Filling null/missing values 
 * Removing outliers (without OMP)
-* Rotating and flipping data
+* Image data augmentation 
 * Data whitening
 
 ## Directory Navigation
