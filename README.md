@@ -10,6 +10,7 @@ Data cleaning is an essential step in machine learning in applied contexts. In c
 * Removing outliers (without OMP)
 * Image data augmentation 
 * Data whitening
+
 Note that visualizing data with Seaborn is an optional topic that can be skipped, since this topic should in principle be covered by another project. This topic has been explicitly marked as optional in the slides, notes, quiz, and assignment. However, since data cleaning and visualization are closely tied together, we have decided to include it as a review topic anyways. 
 
 ## Directory Navigation
